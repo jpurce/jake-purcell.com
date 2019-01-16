@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jake-purcell.com/blog/2017/03/welcome-to-my-blog/</loc>
+    <lastmod>2017-03-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/projects/</loc>
+    <lastmod>2017-03-18T10:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/blog/2017/02/more-blogging/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/about/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/blog/</loc>
+    <lastmod>2017-03-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/also/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/has/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/</loc>
+    <lastmod>2017-03-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/post/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/some/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/tags/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jake-purcell.com/tags/this/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

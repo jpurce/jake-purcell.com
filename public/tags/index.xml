@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jake Purcell</title>
+    <link>https://jake-purcell.com/tags/</link>
+    <description>Recent content in Tags on Jake Purcell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2017 21:30:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://jake-purcell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Also</title>
+      <link>https://jake-purcell.com/tags/also/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://jake-purcell.com/tags/also/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Has</title>
+      <link>https://jake-purcell.com/tags/has/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://jake-purcell.com/tags/has/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://jake-purcell.com/tags/post/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://jake-purcell.com/tags/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some</title>
+      <link>https://jake-purcell.com/tags/some/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://jake-purcell.com/tags/some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://jake-purcell.com/tags/tags/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://jake-purcell.com/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This</title>
+      <link>https://jake-purcell.com/tags/this/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://jake-purcell.com/tags/this/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

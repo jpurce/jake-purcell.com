@@ -1,0 +1,29 @@
+languageCode = "en-us"
+title = "Jake Purcell"
+theme = "crab"
+BaseURL = "https://jake-purcell.com/"
+
+[params]
+mainSections = ["blog", "features"]
+description = "Historian"
+
+[permalinks]
+blog  = "/blog/:year/:month/:title/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "about"
+url = "/"
+
+[[menu.main]]
+weight = 2
+name = "projects"
+url = "/projects/"
+
+[[menu.main]]
+weight = 3
+name = "blog"
+url = "/blog/"
